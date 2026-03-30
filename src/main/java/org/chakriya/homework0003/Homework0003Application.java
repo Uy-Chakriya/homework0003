@@ -1,0 +1,13 @@
+package org.chakriya.homework0003;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class Homework0003Application {
+
+    public static void main(String[] args) {
+        SpringApplication.run(Homework0003Application.class, args);
+    }
+
+}
